@@ -16,6 +16,7 @@
     "@strapi/plugin-users-permissions": "4.1.10",
     "@strapi/strapi": "4.1.10",
     "mysql": "2.18.1",
+    "pm2": "^5.2.0",
     "strapi-plugin-meilisearch": "^0.6.3"
   },
   "author": {
